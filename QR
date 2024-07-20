@@ -1,0 +1,2 @@
+# QR_code_Generator
+The QR Code Generator is a Node.js app that creates QR codes from user-provided URLs using inquirer for prompts and qr-image for QR code generation. It also saves the URL in a text file.
